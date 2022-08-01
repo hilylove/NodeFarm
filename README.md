@@ -1,2 +1,2 @@
 # NodeFarm  
-Project from the Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
+Project from the Udemy course: Node.js, Express, MongoDB & More: The Complete Bootcamp 2022
